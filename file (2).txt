@@ -1,0 +1,26 @@
+kiwikiwi/  
+├── package.json  
+├── tsconfig.json  
+├── next.config.js  
+├── tailwind.config.js  
+├── postcss.config.js  
+├── .env.local.example  
+├── public/  
+│   └── favicon.ico  
+├── src/  
+│   ├── app/  
+│   │   ├── layout.tsx  
+│   │   ├── page.tsx  
+│   │   ├── globals.css  
+│   │   └── api/  
+│   │       └── health/  
+│   │           └── route.ts  
+│   ├── components/  
+│   │   ├── Header.tsx  
+│   │   ├── Hero.tsx  
+│   │   ├── Features.tsx  
+│   │   ├── Pricing.tsx  
+│   │   └── Footer.tsx  
+│   └── lib/  
+│       └── supabase.ts  
+└── Dockerfile  
